@@ -1,16 +1,29 @@
-## Hi there 👋
+## 💫 About Me:
 
-<!--
-**SuptiPal/SuptiPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Supti Pal, a Computer Science and Engineering undergraduate at RUET.
 
-Here are some ideas to get you started:
+💻 I've worked with the MERN stack and enjoy competitive programming and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning more about Operating Systems, Machine Learning, and other areas of computer science.
+
+🚀 I enjoy building projects, exploring new technologies, and improving my programming skills.
+
+## 🌐 Socials:
+
+[LinkedIn](https://www.linkedin.com/in/supti-pal-204532327/) | [Codeforces]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/piisuke))
+
+## 💻 Tech Stack:
+
+**Languages:** C, C++, Python, JavaScript
+
+**Web Development:** HTML, CSS, React, Node.js, Express.js, MongoDB
+
+**Other Technologies:** Flutter, Firebase
+
+**Tools:** Git, GitHub, VS Code, Linux
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuptiPal&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuptiPal&layout=compact&theme=default)
