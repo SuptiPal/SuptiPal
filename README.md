@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[LinkedIn](https://www.linkedin.com/in/supti-pal-204532327/) | [Codeforces](https://codeforces.com/profile/piisuke)
+[LinkedIn](https://www.linkedin.com/in/supti-pal/) | [Codeforces](https://codeforces.com/profile/piisuke)
 
 ## 💻 Tech Stack:
 
