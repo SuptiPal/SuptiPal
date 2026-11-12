@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[LinkedIn](https://www.linkedin.com/in/supti-pal-204532327/) | [Codeforces]([YOUR_CODEFORCES_URL](https://codeforces.com/profile/piisuke))
+[LinkedIn](https://www.linkedin.com/in/supti-pal-204532327/) | [Codeforces](https://codeforces.com/profile/piisuke)
 
 ## 💻 Tech Stack:
 
@@ -22,8 +22,10 @@
 
 **Tools:** Git, GitHub, VS Code, Linux
 
+
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuptiPal&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuptiPal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuptiPal&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuptiPal&layout=compact&theme=tokyonight)
+
